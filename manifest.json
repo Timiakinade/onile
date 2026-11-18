@@ -1,0 +1,9 @@
+{
+  "name": "Onile · Prototype",
+  "short_name": "Onile",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F9FAFB",
+  "theme_color": "#FFC928",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
